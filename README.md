@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zane Zeltina</h1>
 <h3 align="center">I'm a Junior frontend developer from Latvia</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?
-username=zany1989&label=Profile%20views&color=0e75b6&style=flat" alt="zany1989" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zany1989&label=Profile%20views&color=0e75b6&style=flat" alt="zany1989" /> </p>
 
 ![](assets/main-bg.png)
 
