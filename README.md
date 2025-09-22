@@ -78,12 +78,12 @@ ___
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-### 🔖 Other:
+___
+### ⚙️ Important:
 ___
 - 💬 Ask me about **HTML, CSS, SCSS, Git, JS**
 - 👨‍💻 All of my projects are available at [https://github.com/Zany1989](https://github.com/Zany1989)
 - 📫 How to reach me: **zanezeltina32@inbox.lv**
-- 📄 Know about my experiences [https://github.com/Zany1989](https://github.com/Zany1989)
 ___
 ### 🛠️ Languages and Tools:
 ___
@@ -94,6 +94,8 @@ ___
 ### 🔖 My Stats:
 ___
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zany1989&theme=solarized)
+
+___
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zany1989&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zany1989&theme=solarized)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zany1989&theme=solarized)
